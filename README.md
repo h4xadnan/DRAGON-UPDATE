@@ -1,4 +1,3 @@
-# DRAGON-UPDATE
 import getpass
 import os
 import time
